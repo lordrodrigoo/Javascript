@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascript"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.suggest.autoImports": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.wrapLineLength": 120,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    }
+}
